@@ -86,7 +86,6 @@ export default function Home() {
                 <p>Wins: {humanWins}</p>
                 <p>Lose: {aiWins}</p>
                 <p>Draws: {draws}</p>
-                <p>Winrate: {}</p>
             </div>
         </main>
     )
